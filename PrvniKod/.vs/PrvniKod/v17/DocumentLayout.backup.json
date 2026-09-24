@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1Bs2\\PrvniKod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38C21A-D1EC-4296-B9BD-3BEF3DBEFD83}|PrvniKod\\PrvniKod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr1\\26-27-pr1-1bs2\\prvnikod\\prvnikod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA38C21A-D1EC-4296-B9BD-3BEF3DBEFD83}|PrvniKod\\PrvniKod.csproj|solutionrelative:prvnikod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1Bs2\\PrvniKod\\PrvniKod\\Program.cs",
+              "RelativeDocumentMoniker": "PrvniKod\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1Bs2\\PrvniKod\\PrvniKod\\Program.cs",
+              "RelativeToolTip": "PrvniKod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:22:47.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
