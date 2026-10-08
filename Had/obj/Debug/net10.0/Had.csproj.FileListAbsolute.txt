@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\bin\Debug\net10.0\Had.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\bin\Debug\net10.0\Had.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\bin\Debug\net10.0\Had.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\bin\Debug\net10.0\Had.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\bin\Debug\net10.0\Had.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\refint\Had.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\ref\Had.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\Had\obj\Debug\net10.0\Had.csproj.Up2Date
