@@ -15,7 +15,7 @@ namespace Had
             int potravaY;
             Random generator = new Random();
             potravaX = generator.Next(1, 31);
-            potravaY = generator.Next(1, 21);
+            potravaY = generator.Next(1, 20);
 
             int snezeno = 0;
 
@@ -64,7 +64,7 @@ namespace Had
                 if(x==potravaX && y == potravaY)
                 {
                     potravaX = generator.Next(1, 31);
-                    potravaY = generator.Next(1, 21);
+                    potravaY = generator.Next(1, 20);
                     snezeno++;
                 }
             }

@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\bin\Debug\net10.0\TvrobaMenu1B.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\bin\Debug\net10.0\TvrobaMenu1B.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\bin\Debug\net10.0\TvrobaMenu1B.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\bin\Debug\net10.0\TvrobaMenu1B.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\bin\Debug\net10.0\TvrobaMenu1B.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\refint\TvrobaMenu1B.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMenu1B.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\ref\TvrobaMenu1B.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\TvrobaMenu1B\obj\Debug\net10.0\TvrobaMe.9A7A2C6D.Up2Date
