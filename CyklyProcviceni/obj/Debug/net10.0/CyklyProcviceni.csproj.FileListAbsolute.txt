@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\bin\Debug\net10.0\CyklyProcviceni.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\bin\Debug\net10.0\CyklyProcviceni.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\bin\Debug\net10.0\CyklyProcviceni.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\bin\Debug\net10.0\CyklyProcviceni.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\bin\Debug\net10.0\CyklyProcviceni.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\refint\CyklyProcviceni.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyProcviceni.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\ref\CyklyProcviceni.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\CyklyProcviceni\obj\Debug\net10.0\CyklyPro.449D1372.Up2Date

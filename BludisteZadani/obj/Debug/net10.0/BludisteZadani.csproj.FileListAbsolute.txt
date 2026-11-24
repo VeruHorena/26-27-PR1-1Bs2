@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\bin\Debug\net10.0\BludisteZadani.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\bin\Debug\net10.0\BludisteZadani.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\bin\Debug\net10.0\BludisteZadani.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\bin\Debug\net10.0\BludisteZadani.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\bin\Debug\net10.0\BludisteZadani.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\refint\BludisteZadani.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\BludisteZadani.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\ref\BludisteZadani.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1Bs2\BludisteZadani\obj\Debug\net10.0\Bludiste.43DB9389.Up2Date
